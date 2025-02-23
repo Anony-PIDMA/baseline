@@ -8,11 +8,10 @@
 
 The following video demonstrates an example where a rule is constructed: if the camera contains dumbbells and the location is within the student dormitory, then open the dumbbell tutorial in the Keep app.
 
-**Click on the image below to watch the video:**
 
-<a href="https://youtube.com/shorts/Ej6LI-nbkok?feature=share" target="_blank">
-  <img src="front/src/assets/img.jpg" alt="Watch the video" width="300">
-</a>
+https://github.com/user-attachments/assets/4bd206c0-2715-4c3f-84a6-b83fd6482e4c
+
+
 
 (Note: For privacy reasons, we randomly used the address of a student dormitory recommended by the map)
 
